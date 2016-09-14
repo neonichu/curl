@@ -1,5 +1,7 @@
 # libcurl Swift package
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Allows using `libcurl` in other Swift packages.
 
 ## Usage
